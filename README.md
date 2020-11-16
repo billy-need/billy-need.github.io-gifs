@@ -9,4 +9,7 @@ william needrith
 
 • Technologies Used: HTML5, CSS, Bootstrap 4.0, JavaScript, jQuery, AJAX
 
-• Ideas for future improvement (minimum of 3) -Animations -Add or removing html or css -Results in carosel -Multiple pages -Create your own Meme's
+• Ideas for future improvements:
+  -Results in carosel 
+  -Multiple pages 
+  -Create your own Meme's
